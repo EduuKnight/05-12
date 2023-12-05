@@ -1,0 +1,152 @@
+Updatecheck<|||>3<|||>1
+DoUsageStatistics<|||>3<|||>1
+UpdatecheckLastrun<|||>1<|||>2023-11-15 19:24:57
+LastUsageStatisticCall<|||>1<|||>2023-11-04 21:07:35
+LastSessions<|||>1<|||>localhost
+LastActiveSession<|||>1<|||>localhost
+SessionManager_WindowLeft<|||>3<|||>0
+SessionManager_WindowTop<|||>3<|||>0
+ColWidths_connform.ListSessions<|||>1<|||>163,50,50,50,50,50,10
+ColsVisible_connform.ListSessions<|||>1<|||>0,1,4,6
+ColPositions_connform.ListSessions<|||>1<|||>0,1,2,3,4,5,6
+ColSort_connform.ListSessions<|||>1<|||>0,0
+MainWinOnMonitor<|||>3<|||>0
+ColWidths_MainForm.ListDatabases<|||>1<|||>150,80,50,50,50,50,50,50,50,50,120
+ColsVisible_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColPositions_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColSort_MainForm.ListDatabases<|||>1<|||>0,0
+ColWidths_MainForm.ListVariables<|||>1<|||>160,200,428
+ColsVisible_MainForm.ListVariables<|||>1<|||>0,1,2
+ColPositions_MainForm.ListVariables<|||>1<|||>0,1,2
+ColSort_MainForm.ListVariables<|||>1<|||>0,0
+ColWidths_MainForm.ListStatus<|||>1<|||>160,428,100,100
+ColsVisible_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColPositions_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColSort_MainForm.ListStatus<|||>1<|||>0,0
+ColWidths_MainForm.ListProcesses<|||>1<|||>70,80,80,80,80,50,50,197
+ColsVisible_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColPositions_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColSort_MainForm.ListProcesses<|||>1<|||>0,1
+ColWidths_MainForm.ListCommandStats<|||>1<|||>120,100,100,100,368
+ColsVisible_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColPositions_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColSort_MainForm.ListCommandStats<|||>1<|||>1,1
+ColWidths_MainForm.ListTables<|||>1<|||>120,70,70,120,120,70,100,50,70,70,70,70,70,90,120,70,70,70,50
+ColsVisible_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,18
+ColPositions_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ColSort_MainForm.ListTables<|||>1<|||>3,0
+CreateDbCollation<|||>1<|||>utf8mb4_general_ci
+ColWidths_frmTableEditor.listColumns<|||>1<|||>38,113,154,90,60,113,50,117,130,140,100,100
+ColsVisible_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColPositions_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColSort_frmTableEditor.listColumns<|||>1<|||>-1,0
+ColWidths_frmTableEditor.treeIndexes<|||>1<|||>389,100,80
+ColsVisible_frmTableEditor.treeIndexes<|||>1<|||>0,1,2
+ColPositions_frmTableEditor.treeIndexes<|||>1<|||>0,1,2
+ColSort_frmTableEditor.treeIndexes<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listForeignKeys<|||>1<|||>195,80,100,80,80,80
+ColsVisible_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColPositions_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColSort_frmTableEditor.listForeignKeys<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listCheckConstraints<|||>1<|||>200,415
+ColsVisible_frmTableEditor.listCheckConstraints<|||>1<|||>0,1
+ColPositions_frmTableEditor.listCheckConstraints<|||>1<|||>0,1
+ColSort_frmTableEditor.listCheckConstraints<|||>1<|||>-1,0
+MainWinMaximized<|||>3<|||>1
+querymemoheight<|||>3<|||>183
+FileDialogEncoding_MainForm<|||>3<|||>0
+MemoEditorWidth<|||>3<|||>449
+DateTimeEditor_CursorPos_Type4<|||>3<|||>10
+MainWinWidth<|||>3<|||>993
+MainWinHeight<|||>3<|||>525
+ExportSQL_Filenames<|||>1<|||>E:\sigon12062023\DB.sql<{{{><}}}>C:\xampp\htdocs\Beachshop\salao.sql<{{{><}}}>C:\xampp\htdocs\Beachshop\Beachshopp.sql<{{{><}}}>C:\xampp\htdocs\salaonossaalegria\salao.sql<{{{><}}}>C:\Users\ist\Desktop\backTRANSFER\tansfer.sql<{{{><}}}>
+ExportSQL_CreateDatabases<|||>3<|||>1
+ExportSQL_CreateTables<|||>3<|||>1
+MemoEditorHeight<|||>3<|||>257
+FindDialogSearchHistory<|||>1<|||>tecnico<{{{><}}}>hotwailer<{{{><}}}>
+FindDialogReplaceHistory<|||>1<|||>moqueiro<{{{><}}}>motoca<{{{><}}}>
+ExportSQL_DataHow<|||>3<|||>2
+FileDialogEncoding_loaddataform<|||>3<|||>0
+loadfilename<|||>1<|||>C:\xampp\htdocs\Beachshop\Beachshopp.sql
+SQLFile0<|||>1<|||>C:\Users\ist\Desktop\install.sql
+SQLFile1<|||>1<|||>C:\Users\ist\AppData\Roaming\HeidiSQL\Backups\query-tab-.sql
+SQLFile2<|||>1<|||>C:\Users\ist\Downloads\users (1).sql
+SQLFile3<|||>1<|||>C:\xampp\htdocs\autocomplete\celke.sql
+SQLFile4<|||>1<|||>C:\Users\ist\Documents\kjk.sql
+SQLFile5<|||>1<|||>C:\xampp\htdocs\Sigon\BD.sql
+SQLFile6<|||>1<|||>C:\Users\ist\AppData\Roaming\HeidiSQL\Backups\query-tab-2023-01-03_18-42-26-719.sql
+SQLFile7<|||>1<|||>C:\xampp\htdocs\Beachshop\beachshop_produtos.sql
+SQLFile8<|||>1<|||>C:\xampp\htdocs\Beachshop\Beachshopp.sql
+SQLFile9<|||>1<|||>C:\xampp\htdocs\Beachshop\beachshop_cliente.sql
+SQLFile10<|||>1<|||>C:\xampp\htdocs\crud-materialize\crud.sql
+SQLFile11<|||>1<|||>C:\xampp\htdocs\crud-teste01\sgp.sql
+SQLFile12<|||>1<|||>C:\xampp\htdocs\mecanica\INSTALACAO\BASE-DE-DADOS.sql
+SQLFile13<|||>1<|||>C:\Users\ist\Desktop\backTRANSFER\tansfer.sql
+SQLFile14<|||>1<|||>C:\xampp\htdocs\crud\qrchamado.sql
+SQLFile15<|||>1<|||>C:\xampp\htdocs\crud\tf.sql
+SQLFile16<|||>1<|||>C:\xampp\htdocs\crud\consultaDB.sql
+SQLFile17<|||>1<|||>C:\xampp\htdocs\crud\celke.sql
+SQLFile18<|||>1<|||>C:\Users\ist\AppData\Roaming\HeidiSQL\Backups\query-tab-2021-03-29_19-00-57-129.sql
+Servers\localhost\SessionCreated<|||>1<|||>2021-03-22 06:45:39
+Servers\localhost\Host<|||>1<|||>127.0.0.1
+Servers\localhost\WindowsAuth<|||>3<|||>0
+Servers\localhost\CleartextPluginEnabled<|||>3<|||>0
+Servers\localhost\User<|||>1<|||>root
+Servers\localhost\Password<|||>1<|||>6
+Servers\localhost\LoginPrompt<|||>3<|||>0
+Servers\localhost\Port<|||>1<|||>3306
+Servers\localhost\NetType<|||>3<|||>0
+Servers\localhost\Compressed<|||>3<|||>0
+Servers\localhost\LocalTimeZone<|||>3<|||>0
+Servers\localhost\QueryTimeout<|||>3<|||>30
+Servers\localhost\KeepAlive<|||>3<|||>20
+Servers\localhost\FullTableStatus<|||>3<|||>1
+Servers\localhost\Databases<|||>1<|||>
+Servers\localhost\Library<|||>1<|||>libmariadb.dll
+Servers\localhost\Comment<|||>1<|||>
+Servers\localhost\StartupScriptFilename<|||>1<|||>
+Servers\localhost\TreeBackground<|||>3<|||>536870911
+Servers\localhost\SSHtunnelHost<|||>1<|||>
+Servers\localhost\SSHtunnelHostPort<|||>3<|||>22
+Servers\localhost\SSHtunnelUser<|||>1<|||>
+Servers\localhost\SSHtunnelPassword<|||>1<|||>1
+Servers\localhost\SSHtunnelTimeout<|||>3<|||>4
+Servers\localhost\SSHtunnelPrivateKey<|||>1<|||>
+Servers\localhost\SSHtunnelPort<|||>3<|||>3307
+Servers\localhost\SSL_Active<|||>3<|||>0
+Servers\localhost\SSL_Key<|||>1<|||>
+Servers\localhost\SSL_Cert<|||>1<|||>
+Servers\localhost\SSL_CA<|||>1<|||>
+Servers\localhost\SSL_Cipher<|||>1<|||>
+Servers\localhost\IgnoreDatabasePattern<|||>1<|||>
+Servers\localhost\ServerVersionFull<|||>1<|||>10.4.18-MariaDB - mariadb.org binary distribution
+Servers\localhost\ConnectCount<|||>3<|||>120
+Servers\localhost\ServerVersion<|||>3<|||>100418
+Servers\localhost\LastConnect<|||>1<|||>2023-11-16 12:44:44
+Servers\localhost\lastUsedDB<|||>1<|||>ssi
+Servers\localhost\RefusedCount<|||>3<|||>15
+Servers\localhost\hotwailer|atendimento\Sort<|||>1<|||>0_IdEmpresaChamado|0_Observacao|
+Servers\localhost\hotwailer|tipochamado\Sort<|||>1<|||>1_Status|
+Servers\localhost\motoca|motoqueiro\Sort<|||>1<|||>0_Cel|
+Servers\localhost\QueryHistory\13<|||>1<|||>2023-10-26 18:42:36|motoca|0|SELECT COUNT(IdMotoqueiro) as num_result FROM motoqueiro
+Servers\localhost\QueryHistory\1<|||>1<|||>2023-10-26 18:43:25|motoca|0|SELECT IdMotoqueiro, Nome, Email, Cel, Situacao FROM motoqueiro ORDER BY IdMotoqueiro
+Servers\localhost\QueryHistory\2<|||>1<|||>2023-10-30 01:19:16|motoca|141|INSERT INTO `motoca`.`motoqueiro` (`Nome`, `Email`, `Senha`, `Cel`,`Status`, `Logradouro`, `N`, `Complemento`, `Bairro`, `Cidade`, `Uf`, `Situacao`) VALUES ('Pedro Baes', 'pedro@admin.com', '654321', '13222222222', 'Ativo', 'tancredo Neves', '12', 'hjkghkfgkk', 'Planalto II','Ipatinga','MG','on');
+Servers\localhost\QueryHistory\3<|||>1<|||>2023-11-04 12:55:17|hotwailer|0|SELECT * FROM administrador ORDER BY IdAdministrador 
+Servers\localhost\QueryHistory\4<|||>1<|||>2023-11-04 12:56:12|hotwailer|0|SELECT IdAdministrador, Nome, Email, Cel, Telefone FROM administrador ORDER BY IdAdministrador 
+Servers\localhost\QueryHistory\5<|||>1<|||>2023-11-04 12:57:05|hotwailer|0|SELECT IdAdministrador, Nome, Email, Cel, Telefone, NivelAcesso, Status FROM administrador ORDER BY IdAdministrador 
+Servers\localhost\QueryHistory\6<|||>1<|||>2023-11-04 21:08:54|hotwailer|16|SELECT COUNT(IdAdministrador) as num_result FROM administrador
+Servers\localhost\QueryHistory\7<|||>1<|||>2023-11-07 00:12:30|hotwailer|0|SELECT IdAdministrador, Nome, Email, Cel, Telefone, NivelAcesso, Status FROM administrador ORDER BY IdAdministrador LIMIT 35,5
+Servers\localhost\QueryHistory\8<|||>1<|||>2023-11-07 00:13:31|hotwailer|0|SELECT IdAdministrador, Nome, Email, Cel, Telefone, NivelAcesso, Status FROM administrador ORDER BY IdAdministrador LIMIT 0,5
+Servers\localhost\QueryHistory\9<|||>1<|||>2023-11-07 00:14:45|hotwailer|0|SELECT IdAdministrador, Nome, Email, Cel, Telefone, NivelAcesso, Status FROM administrador ORDER BY IdAdministrador LIMIT 5,5
+Servers\localhost\QueryHistory\11<|||>1<|||>2023-11-08 13:24:30|hotwailer|0|SELECT IdAdministrador, Nome, Email, Cel, Telefone, NivelAcesso, Status FROM administrador ORDER BY IdAdministrador LIMIT 0,10
+Servers\localhost\QueryHistory\10<|||>1<|||>2023-11-08 13:25:27|hotwailer|31|SELECT IdAdministrador, Nome, Email, Cel, Telefone, NivelAcesso, Status FROM administrador WHERE Nome LIKE '%$filtro%' OR Email LIKE '%$filtro%' ORDER BY IdAdministrador LIMIT 0,10
+Servers\localhost\QueryHistory\14<|||>1<|||>2023-11-08 13:26:40|hotwailer|0|SELECT IdAdministrador, Nome, Email, Cel, Telefone, NivelAcesso, Status FROM administrador WHERE Nome LIKE '%admin%' OR Email LIKE '%admin%' ORDER BY IdAdministrador LIMIT 0,10
+Servers\localhost\QueryHistory\15<|||>1<|||>2023-11-08 13:28:38|hotwailer|0|SELECT IdAdministrador, Nome, Email, Cel, Telefone, NivelAcesso, Status FROM administrador WHERE Nome LIKE '%rael%' OR Email LIKE '%rael%' ORDER BY IdAdministrador LIMIT 0,10
+Servers\localhost\QueryHistory\12<|||>1<|||>2023-11-08 21:24:23|hotwailer|93|SELECT * FROM administrador WHERE email = '@989920#' and senha='@989920#' AND status = 'Ativo'
+Servers\localhost\QueryHistory\16<|||>1<|||>2023-11-08 21:30:19|hotwailer|0|SELECT * FROM administrador WHERE email = '123456' and senha='123456' AND status = 'Ativo'
+Servers\localhost\QueryHistory\17<|||>1<|||>2023-11-08 21:31:49|hotwailer|0|SELECT * FROM administrador WHERE email = 'rael@gmail.com' and senha='123456' AND status = 'Ativo'
+Servers\localhost\QueryHistory\18<|||>1<|||>2023-11-12 22:36:38|hotwailer|0|SELECT IdEmpresa, Empresa, Cnpj, Email, Cel, Telefone, Status FROM empresa ORDER BY IdEmpresa LIMIT 0,10
+Servers\localhost\QueryHistory\19<|||>1<|||>2023-11-15 19:44:15|ssi|328|-- -----------------------------------------------------<{{{><}}}>-- Table `ssi`.`Matricula`<{{{><}}}>-- -----------------------------------------------------<{{{><}}}>CREATE TABLE IF NOT EXISTS `ssi`.`Matricula` (<{{{><}}}>  `IdMatricula` INT NOT NULL AUTO_INCREMENT,<{{{><}}}>  `IdModalidades` INT NULL,<{{{><}}}>  `IdCliente` INT NULL,<{{{><}}}>  `Plano` ENUM('Single', 'Easy', 'Premiun') NULL,<{{{><}}}>  `Status` ENUM('Aguardando', 'Ativo', 'Pausado', 'Suspenso') NULL DEFAULT 'Aguardando',<{{{><}}}>  `Cadastro` DATETIME NULL,<{{{><}}}> PRIMARY KEY (`IdMatricula`) )<{{{><}}}>ENGINE = InnoDB;
+Servers\localhost\QueryHistory\20<|||>1<|||>2023-11-15 22:19:54|ssi|625|-- -----------------------------------------------------<{{{><}}}>-- Table `ssi`.`Matriculas`<{{{><}}}>-- -----------------------------------------------------<{{{><}}}>CREATE TABLE IF NOT EXISTS `ssi`.`Matriculas` (<{{{><}}}>  `IdMatriculas` INT NOT NULL AUTO_INCREMENT,<{{{><}}}>  `Nome` VARCHAR(150) NULL,<{{{><}}}>  `Cpf` VARCHAR(15) NULL,<{{{><}}}>  `DataNasc` DATE NULL,<{{{><}}}>  `Sexo` VARCHAR(45) NULL,<{{{><}}}>  `Email` VARCHAR(100) NULL,<{{{><}}}>  `Telefone` VARCHAR(45) NULL,<{{{><}}}>  `Plano` VARCHAR(45) NULL,<{{{><}}}>  `Valor` DECIMAL NULL,<{{{><}}}>  `Modalidade` VARCHAR(45) NULL,<{{{><}}}>  `Status` ENUM('Aguardando', 'Ativo', 'Pausado', 'Suspenso') NULL DEFAULT 'Aguardando',<{{{><}}}>  PRIMARY KEY (`IdMatriculas`))<{{{><}}}>ENGINE = InnoDB;<{{{><}}}>
+Servers\localhost\QueryHistory\21<|||>1<|||>2023-11-15 23:31:53|ssi|0|SELECT IdMatriculas, Nome, Email, Telefone, Plano, Modalidade, Valor, Status FROM matriculas ORDER BY IdMatriculas DESC LIMIT 0,5
+Servers\localhost\salao|tbservico\Sort<|||>1<|||>1_descservico|
